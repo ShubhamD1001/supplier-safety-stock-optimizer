@@ -1,0 +1,7 @@
+segment,n_orders,avg_lead_time_days,std_lead_time_days,late_delivery_rate,lead_time_cv,avg_daily_demand,std_daily_demand,service_factor_z,safety_stock_units,reorder_point_units,pct_risk_from_supplier,pct_risk_from_demand,risk_quadrant
+Apparel,6666,3.007,0.575,0.165,0.191,77.561,27.927,1.645,108.285,341.48,0.459,0.541,Reliable
+Auto Parts,6666,4.992,1.229,0.336,0.246,41.234,14.764,1.645,99.464,305.293,0.702,0.298,Chronic Lateness
+Electronics,6666,3.996,0.849,0.259,0.212,59.372,21.028,1.645,107.929,345.168,0.59,0.41,Reliable
+Furniture,6666,6.467,2.407,0.491,0.372,29.532,11.094,1.645,125.801,316.781,0.864,0.136,Critical Risk
+Garden & Outdoor,6666,5.514,1.985,0.307,0.36,34.018,12.156,1.645,120.584,308.146,0.848,0.152,Critical Risk
+Sporting Goods,6666,3.531,1.563,0.264,0.442,50.134,17.698,1.645,139.981,317.014,0.847,0.153,Volatility Risk
